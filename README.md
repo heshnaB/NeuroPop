@@ -9,7 +9,7 @@ Since it’s Valentine’s Day, we wanted to build something fun, silly, chaotic
 
 Before the time of competition, we thought:  
 
-What if dating was a live gladiator arena, where AI judges your date, friends spectate, and red flags get exposed in real time?
+##What if dating was a live gladiator arena, where AI judges your date, friends spectate, and red flags get exposed in real time?
 And so Roses are RED (FLAGS) was born!
 
 # What it does
