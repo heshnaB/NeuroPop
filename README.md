@@ -6,7 +6,7 @@ A Sillycon Hackathon Project
 # Inspiration
 Dating apps today are private, repetitive, and often unsafe. Red flags usually go unnoticed until it’s too late, and friends only hear the story afterward.
 Since it’s Valentine’s Day, we wanted to build something fun, silly, chaotic, and completely unserious—a playful twist on dating instead of another serious matchmaking platform.
-Before the time of competition, we thought:
+Before the time of competition, we thought:  
 What if dating was a live gladiator arena, where AI judges your date, friends spectate, and red flags get exposed in real time?
 And so Roses are RED (FLAGS) was born!
 
