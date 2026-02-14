@@ -17,17 +17,20 @@ Dating apps have become a chore—a repetitive cycle of swiping and small talk. 
 # ⚔️  How we built it
 We utilized a modern, high-performance stack to ensure the "Arena" never lags:
 -Frontend: React 18 + Vite for speed.
+
 -Styling: Tailwind CSS for that deep black (#050505) and neon pink (#FF007F) aesthetic.
+
 -Motion: Framer Motion for the signature falling rose petals.
+
 -Real-time Logic: ```javascript
 // Example of the Sabotage Broadcast Logic
--const sendSabotage = async (type) => {
+*const sendSabotage = async (type) => {
 await supabase.channel('arena_room').send({
 type: 'broadcast',
 event: 'SABOTAGE_TRIGGERED',
 payload: { effect: type, timestamp: Date.now() }
 });
-};-
+};*
 
 # Challenges we ran into
 1. The "Live" Interaction Paradox
@@ -41,7 +44,9 @@ We needed a way to measure the quality of a date that was more sophisticated tha
 
 # Accomplishments that we're proud of
 -The Neon-Noir Aesthetic: We successfully created a "Strict Dark Mode" that feels premium, chaotic, and high-energy all at once.
+
 -The Sabotage System: Making the spectators feel like "Dating Gods" who can influence the outcome of the date in real-time.
+
 -Platform Fluidity: Navigating from a landing page into a live-action video arena feels seamless, with no jarring loading screens or broken flows.
 
 # What we learned
@@ -49,5 +54,7 @@ Building this project taught us that UX is more than just buttons. In a live env
 
 # What's next for Roses are RED (FLAGS)
 -AI Voice Commentary: Giving the AI Referee a physical voice to roast daters out loud.
+
 -Gauntlet Mode: A survival-style mode where one dater must stay on camera as challengers are rotated in.
+
 -Global Leaderboards: Ranking the world's "Red Flag Champions" and "Smooth Operators."
