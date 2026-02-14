@@ -1,6 +1,7 @@
 # NeuroPop
 A Sillycon Hackathon Project 
 
+![demo]()![Video_Ready_For_Viewing-ezgif com-optimize](https://github.com/user-attachments/assets/03c9e5d9-66b7-4254-80c5-d26160428424)
 
 # 🌹 Inspiration - Roses are RED FLAGS
 Dating apps have become a chore—a repetitive cycle of swiping and small talk. We wanted to bring back the high-stakes energy of a game show. We took the anxiety of a first date, the chaos of a Twitch stream, and the judgment of an AI referee to create a "Dating Gladiator" arena where the goal isn't just to find love, but to survive the "cringe.
