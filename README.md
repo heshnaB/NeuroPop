@@ -2,13 +2,16 @@
 A Sillycon Hackathon Project 
 
 
-# 🌹 Inspiration
+# 🌹 Inspiration - Roses are RED FLAGS
 Dating apps have become a chore—a repetitive cycle of swiping and small talk. We wanted to bring back the high-stakes energy of a game show. We took the anxiety of a first date, the chaos of a Twitch stream, and the judgment of an AI referee to create a "Dating Gladiator" arena where the goal isn't just to find love, but to survive the "cringe.
 
 # ⚔️ What it does
 -Roses are RED (FLAGS) is a live-spectated video dating platform.
+
 -The Arena: Two strangers enter a 3-minute video chat.
+
 -The AI Referee: Lovable AI monitors the audio in real-time, flagging "Red Flags" (talking about exes, being boring), awarding "Smooth Moves," and providing live commentary.
+
 -The Spectators: Friends can watch the date live in a private "War Room" and use Sabotage Tools to send embarrassing questions or trigger "Truth or Dare" challenges to test the daters' composure.
 
 # ⚔️  How we built it
