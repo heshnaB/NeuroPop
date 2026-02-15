@@ -1,0 +1,43 @@
+﻿NeuroPop – How to Run the Project (Local Demo)
+1. Install Node.js (version 18 or higher).
+Download from https://nodejs.org
+ After installing, verify by running:
+node -v
+
+2. Download the project.
+Option A (simplest):
+
+   * Go to https://github.com/heshnaB/NeuroPop
+
+   * Click “Code” → “Download ZIP”
+
+   * Extract the ZIP file
+
+   * Open a terminal inside the extracted folder
+
+      3. Option B (using Git):
+git clone https://github.com/heshnaB/NeuroPop.git
+cd NeuroPop/date-duel-arena-main
+
+      4. Install frontend dependencies.
+From inside the date-duel-arena-main folder:
+npm install
+
+      5. Start the backend server (required for WebRTC).
+Open a new terminal window and run:
+cd server
+npm install
+node index.js
+Keep this terminal running.
+
+      6. Start the frontend.
+In the main project folder (date-duel-arena-main):
+npm run dev
+
+      7. Open the local URL shown in the terminal (usually http://localhost:5173).
+
+      8. Allow camera and microphone permissions when prompted.
+
+      9. To test the video connection, open the app in two browser windows (or one normal window and one incognito window). Each window acts as a separate participant.
+
+That’s it. The demo runs fully locally with no additional configuration required.
