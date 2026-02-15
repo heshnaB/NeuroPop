@@ -45,13 +45,16 @@ We needed a way to measure the quality of a date that was more sophisticated tha
 
 # Accomplishments that we're proud of
 -The Neon-Noir Aesthetic: We successfully created a "Strict Dark Mode" that feels premium, chaotic, and high-energy all at once.
+- Local video implementaion.
 
 -The Sabotage System: Making the spectators feel like "Dating Gods" who can influence the outcome of the date in real-time.
 
 -Platform Fluidity: Navigating from a landing page into a live-action video arena feels seamless, with no jarring loading screens or broken flows.
 
 # What we learned
-Building this project taught us that UX is more than just buttons. In a live environment, UX is about timing. We learned how to manage real-time data streams and how to use AI not just as a tool, but as a "character" in the social experience.
+During the hackathon, we implemented a local video playback feature to enhance user engagement and create a more immersive experience. The video was bundled directly within the application package, allowing seamless offline playback with zero buffering — which was critical for maintaining reliability during live demos. We used Android’s native VideoView component along with a MediaController to provide intuitive playback controls while keeping the implementation efficient within the limited timeframe.
+
+Building this project taught us that UX is more than just buttons. In a live environment, UX is about timing — how media loads, how data updates, and how interactions feel in real time. We learned how to manage real-time data streams effectively and how to use AI not just as a tool, but as a “character” within the social experience. The combination of multimedia elements and responsive design helped us create a more dynamic and engaging application.
 
 # What's next for Roses are RED (FLAGS)
 -AI Voice Commentary: Giving the AI Referee a physical voice to roast daters out loud.
