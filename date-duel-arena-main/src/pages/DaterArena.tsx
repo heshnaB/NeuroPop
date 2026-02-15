@@ -7,6 +7,7 @@ import { toast } from "@/hooks/use-toast";
 import { Progress } from "@/components/ui/progress";
 import { Slider } from "@/components/ui/slider";
 import RosePetals from "@/components/RosePetals";
+import Video from "./Video";
 
 const DaterArena = () => {
   const navigate = useNavigate();
@@ -64,13 +65,8 @@ const DaterArena = () => {
 
             {/* You */}
             <div className="glass-rose rounded-xl flex flex-col items-center justify-center aspect-video gap-3">
-              <div className="w-16 h-16 rounded-full bg-primary/20 flex items-center justify-center">
-                <User className="text-primary" size={32} />
-              </div>
-              <div className="text-center">
-                <p className="font-display font-bold text-foreground">PLAYER 1</p>
-                <p className="text-xs text-muted-foreground font-body">@username101</p>
-              </div>
+
+              <Video />
             </div>
 
             {/* Stranger */}
