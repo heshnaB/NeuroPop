@@ -15,6 +15,10 @@ Dating apps have become a chore—a repetitive cycle of swiping and small talk. 
 
 -The Spectators: Friends can watch the date live in a private "War Room" and use Sabotage Tools to send embarrassing questions or trigger "Truth or Dare" challenges to test the daters' composure.
 
+## 🚀 Demo Flow
+Below is the full user journey for both Spectator and Dating modes.
+
+
 # ⚔️  How we built it
 We utilized a modern, high-performance stack to ensure the "Arena" never lags:
 -Frontend: React 18 + Vite for speed.
