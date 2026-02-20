@@ -18,6 +18,9 @@ Dating apps have become a chore—a repetitive cycle of swiping and small talk. 
 ## 🚀 Demo Flow
 Below is the full user journey for both Spectator and Dating modes.
 
+![Arena Screenshot](./arena.png)
+
+![Arena Screenshot](./spectator.png)
 
 # ⚔️  How we built it
 We utilized a modern, high-performance stack to ensure the "Arena" never lags:
